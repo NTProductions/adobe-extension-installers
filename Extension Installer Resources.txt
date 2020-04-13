@@ -1,0 +1,13 @@
+Inno Links:
+https://jrsoftware.org/isdl.php
+https://jrsoftware.org/ishelp/index.php?topic=setup_wizardsmallimagefile
+https://revolution.screenstepslive.com/s/revolution/m/10695/l/563371-signing-installers-you-create-with-inno-setup
+
+ZXP Signing Guide:
+https://wwwimages2.adobe.com/content/dam/acom/en/devnet/creativesuite/pdfs/SigningTechNote_CC.pdf
+
+Packages:
+http://s.sudre.free.fr/Software/Packages/about.html
+
+DMG Canvas:
+https://www.araelium.com/dmgcanvas
